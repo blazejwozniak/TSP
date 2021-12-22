@@ -1,4 +1,4 @@
-## Autor: Błażej Woźniak 301740
+## Autor: Błażej Woźniak
 
 **Aplikacja jest napisana w jezyku JAVA oraz implementuje ona projekt S12 "Projekt S12. Przeszukiwanie poinformowane. Problem „komiwojażera”. A*" Zmienne oraz metody oraz wszlkie programowalne aspkety są wykonane w języku angielskim, zgodnie z profesora przyzwoleniem z pierwszych zajęć stacjonarnych.**
 
